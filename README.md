@@ -43,6 +43,7 @@ python data/generate_data.py
 
 # 4. 运行主程序
 python src/main.py
+```
 
 ### 预期输出
 
